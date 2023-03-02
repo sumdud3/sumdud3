@@ -1,4 +1,4 @@
-    👋 Hi, I’m Jatin 
+    👋 Hi, I’m just a friendly Potato, wanna sell me your soul?
  
 - 👀 I’m interested in AI, Games, Data Mining and more
 - 💻 Languages : Python, C#, Dart ...
